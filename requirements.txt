@@ -221,3 +221,4 @@ websockets==15.0.1
     # via google-genai
 chess
 anthropic
+groq
