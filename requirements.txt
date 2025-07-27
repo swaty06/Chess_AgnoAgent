@@ -222,3 +222,5 @@ websockets==15.0.1
 chess
 anthropic
 groq
+openai
+google-genai
