@@ -77,9 +77,9 @@ def get_model_for_provider(provider: str, model_name: str):
 
 
 def get_chess_team(
-    white_model: str = "openai:gpt-4o",
+    white_model: str = "google:gpt-4o",
     black_model: str = "anthropic:claude-3-7-sonnet",
-    master_model: str = "openai:gpt-4o",
+    master_model: str = "google:gpt-4o",
     debug_mode: bool = True,
 ) -> Team:
     """
